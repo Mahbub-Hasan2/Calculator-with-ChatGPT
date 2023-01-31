@@ -1,0 +1,1 @@
+![screencapture-chat-openai-chat](./screencapture-chat-openai-chat.png)
